@@ -5,6 +5,5 @@ A text-based calculator which does common vector operations such as:
  * cross product
  * conversion to polar coordinates
 
-# How it works
-
-
+# How it was made
+Made using C++ utilizing classes, operator overloading, and pointers
